@@ -15,8 +15,6 @@
             //var isInt = int.TryParse(input, out var size);
             //int[] array = new int[size];
 
-
-
             //for (int i = 0; i < size; i++)
             //{
             //    array[i] = i + 1;
@@ -24,9 +22,9 @@
 
             //var evenNumbers = new List<int>();
             //var oddNumbers = new List<int>();
-            //for(int i =0; i< array.Length; i++)
+            //for (int i = 0; i < array.Length; i++)
             //{
-            //    if (array[i]%2 == 0)
+            //    if (array[i] % 2 == 0)
             //    {
             //        evenNumbers.Add(array[i]);
             //    }
@@ -38,9 +36,8 @@
             //int[] array1 = evenNumbers.ToArray();
             //int[] array2 = oddNumbers.ToArray();
 
-
             //Console.WriteLine("Array1: ");
-            //foreach(var item in array1)
+            //foreach (var item in array1)
             //{
             //    Console.Write($" {item} ");
             //}
@@ -64,7 +61,7 @@
             //Console.WriteLine("1. Add a new contact.\n" +
             //                  "2.Delete contact.\n" +
             //                  "3. edit contact");
-            //Console.WriteLine("Choose desired service number: ");
+            //Console.WriteLine("Select your desired service number: ");
             //var num1 = Console.ReadLine();
             //var isInt = int.TryParse(num1, out var num);
 
@@ -128,12 +125,12 @@
             #region Task03:
             //var massive = new int[5] { 1, 1, 2, 3, 3 };
 
-            //var random = massive.GroupBy(x => x)
+            //var randomMassive = massive.GroupBy(x => x)
             //    .ToDictionary(x => x.Key, x => new { Count = x.Count(), Sum = x.Sum() });
 
 
 
-            //foreach(var item in random)
+            //foreach (var item in randomMassive)
             //{
             //    Console.WriteLine($"{item.Key} appears {item.Value.Count} times, sum {item.Value.Sum}");
             //}
