@@ -1,0 +1,15 @@
+C:\Users\Ani\source\repos\Homeworks\Homework10\obj\Debug\net8.0\Homework10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ani\source\repos\Homeworks\Homework10\obj\Debug\net8.0\Homework10.AssemblyInfoInputs.cache
+C:\Users\Ani\source\repos\Homeworks\Homework10\obj\Debug\net8.0\Homework10.AssemblyInfo.cs
+C:\Users\Ani\source\repos\Homeworks\Homework10\obj\Debug\net8.0\Homework10.csproj.CoreCompileInputs.cache
+C:\Users\Ani\source\repos\Homeworks\Homework10\obj\Debug\net8.0\Homework10.sourcelink.json
+C:\Users\Ani\source\repos\Homeworks\Homework10\bin\Debug\net8.0\Homework10.exe
+C:\Users\Ani\source\repos\Homeworks\Homework10\bin\Debug\net8.0\Homework10.deps.json
+C:\Users\Ani\source\repos\Homeworks\Homework10\bin\Debug\net8.0\Homework10.runtimeconfig.json
+C:\Users\Ani\source\repos\Homeworks\Homework10\bin\Debug\net8.0\Homework10.dll
+C:\Users\Ani\source\repos\Homeworks\Homework10\bin\Debug\net8.0\Homework10.pdb
+C:\Users\Ani\source\repos\Homeworks\Homework10\obj\Debug\net8.0\Homework10.dll
+C:\Users\Ani\source\repos\Homeworks\Homework10\obj\Debug\net8.0\refint\Homework10.dll
+C:\Users\Ani\source\repos\Homeworks\Homework10\obj\Debug\net8.0\Homework10.pdb
+C:\Users\Ani\source\repos\Homeworks\Homework10\obj\Debug\net8.0\Homework10.genruntimeconfig.cache
+C:\Users\Ani\source\repos\Homeworks\Homework10\obj\Debug\net8.0\ref\Homework10.dll
